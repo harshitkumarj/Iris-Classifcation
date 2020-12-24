@@ -9,4 +9,4 @@ Our goal is to eventually provide these insights to correctly classify the flowe
 * Harshit Kumar Jain ([@harshitkumarj](https://github.com/harshitkumarj))
 * Mudit Bhandari ([@mudit2000](https://github.com/mudit2000))
 
-<p><img src='species.png'>
+<p><img src='species.PNG'>
